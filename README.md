@@ -1,7 +1,7 @@
-# PRODIGY_CS_03 - Password Strength Checker
+# Password Strength Checker
 
 ## 📌 Task Description
-This task checks if a given password is strong by verifying length, uppercase, lowercase, numbers, and special characters.
+This checks if a given password is strong by verifying length, uppercase, lowercase, numbers, and special characters.
 
 ## ⚙️ What I Learned
 - How to use Python's regex (`re` module) for pattern matching.
